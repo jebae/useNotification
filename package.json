@@ -1,0 +1,25 @@
+{
+  "name": "@jebae/use-notification",
+  "version": "1.0.0",
+  "description": "use notification with react hook",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jebae/useNotification.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "Notification"
+  ],
+  "author": "jebae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jebae/useNotification/issues"
+  },
+  "homepage": "https://github.com/jebae/useNotification#readme",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
